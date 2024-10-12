@@ -1,0 +1,8 @@
+config:
+  pulimi-app-2:frontendPort: "3001"
+  pulimi-app-2:backendPort: "3000"
+  pulimi-app-2:mongoPort: "27017"
+  pulimi-app-2:mongoHost: mongodb://mongo:27017
+  pulimi-app-2:database: cart
+  pulimi-app-2:nodeEnvironment: development
+  pulimi-app-2:protocol: http://
